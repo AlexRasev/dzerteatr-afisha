@@ -1,0 +1,222 @@
+[
+    {
+        "play": "Продавец дождя",
+        "url": "https://www.dzerteatr.ru/spektakli/prodaveth.html",
+        "dates": [
+            "30 октября (пт) 18:00"
+        ],
+        "status": "Ближайшие спектакли: 30 октября (пт) 18:00"
+    },
+    {
+        "play": "Наливные яблочки",
+        "url": "https://www.dzerteatr.ru/spektakli/apples.html",
+        "dates": [
+            "31 октября (сб) 17:00",
+            "13 декабря (вс) 17:00",
+            "26 декабря (сб) 17:00"
+        ],
+        "status": "Ближайшие спектакли: 31 октября (сб) 17:00, 13 декабря (вс) 17:00, 26 декабря (сб) 17:00"
+    },
+    {
+        "play": "Аленький цветочек",
+        "url": "https://www.dzerteatr.ru/spektakli/cvetothek.html",
+        "dates": [
+            "01 ноября (вс) 11:00"
+        ],
+        "status": "Ближайшие спектакли: 01 ноября (вс) 11:00"
+    },
+    {
+        "play": "Капитанская дочка",
+        "url": "https://www.dzerteatr.ru/spektakli/Kapitan.html",
+        "dates": [
+            "01 ноября (вс) 17:00"
+        ],
+        "status": "Ближайшие спектакли: 01 ноября (вс) 17:00"
+    },
+    {
+        "play": "Повесть о том, как поссорился Иван Иванович с Иваном Никифоровичем",
+        "url": "https://www.dzerteatr.ru/spektakli/povest.html",
+        "dates": [
+            "05 ноября (чт) 19:00",
+            "10 декабря (чт) 19:00"
+        ],
+        "status": "Ближайшие спектакли: 05 ноября (чт) 19:00, 10 декабря (чт) 19:00"
+    },
+    {
+        "play": "Золотой телёнок",
+        "url": "https://www.dzerteatr.ru/spektakli/telenok.html",
+        "dates": [
+            "06 ноября (пт) 18:00"
+        ],
+        "status": "Ближайшие спектакли: 06 ноября (пт) 18:00"
+    },
+    {
+        "play": "Ужин дураков",
+        "url": "https://www.dzerteatr.ru/spektakli/veber.html",
+        "dates": [
+            "07 ноября (сб) 17:00",
+            "04 декабря (пт) 18:00"
+        ],
+        "status": "Ближайшие спектакли: 07 ноября (сб) 17:00, 04 декабря (пт) 18:00"
+    },
+    {
+        "play": "Царевна Дуся",
+        "url": "https://www.dzerteatr.ru/spektakli/dusya.html",
+        "dates": [
+            "08 ноября (вс) 11:00"
+        ],
+        "status": "Ближайшие спектакли: 08 ноября (вс) 11:00"
+    },
+    {
+        "play": "Вий",
+        "url": "https://www.dzerteatr.ru/spektakli/Viy.html",
+        "dates": [
+            "08 ноября (вс) 17:00"
+        ],
+        "status": "Ближайшие спектакли: 08 ноября (вс) 17:00"
+    },
+    {
+        "play": "Морфий",
+        "url": "https://www.dzerteatr.ru/spektakli/morfiy.html",
+        "dates": [
+            "12 ноября (чт) 19:00"
+        ],
+        "status": "Ближайшие спектакли: 12 ноября (чт) 19:00"
+    },
+    {
+        "play": "Пиковая дама",
+        "url": "https://www.dzerteatr.ru/spektakli/damapik.html",
+        "dates": [
+            "14 ноября (сб) 17:00"
+        ],
+        "status": "Ближайшие спектакли: 14 ноября (сб) 17:00"
+    },
+    {
+        "play": "Клочки по закоулочкам",
+        "url": "https://www.dzerteatr.ru/spektakli/oster.html",
+        "dates": [
+            "15 ноября (вс) 11:00"
+        ],
+        "status": "Ближайшие спектакли: 15 ноября (вс) 11:00"
+    },
+    {
+        "play": "Букет",
+        "url": "https://www.dzerteatr.ru/spektakli/buket.html",
+        "dates": [
+            "15 ноября (вс) 17:00"
+        ],
+        "status": "Ближайшие спектакли: 15 ноября (вс) 17:00"
+    },
+    {
+        "play": "Ревизор",
+        "url": "https://www.dzerteatr.ru/spektakli/revizor.html",
+        "dates": [
+            "27 ноября (пт) 18:00"
+        ],
+        "status": "Ближайшие спектакли: 27 ноября (пт) 18:00"
+    },
+    {
+        "play": "Ханума",
+        "url": "https://www.dzerteatr.ru/spektakli/Hanuma.html",
+        "dates": [
+            "28 ноября (сб) 17:00"
+        ],
+        "status": "Ближайшие спектакли: 28 ноября (сб) 17:00"
+    },
+    {
+        "play": "Маша и Витя против \"Диких гитар\"",
+        "url": "https://www.dzerteatr.ru/spektakli/masha.html",
+        "dates": [
+            "29 ноября (вс) 11:00"
+        ],
+        "status": "Ближайшие спектакли: 29 ноября (вс) 11:00"
+    },
+    {
+        "play": "Недоросль",
+        "url": "https://www.dzerteatr.ru/spektakli/fonvizin.html",
+        "dates": [
+            "29 ноября (вс) 17:00"
+        ],
+        "status": "Ближайшие спектакли: 29 ноября (вс) 17:00"
+    },
+    {
+        "play": "Страсти по Торчалову",
+        "url": "https://www.dzerteatr.ru/spektakli/torthalov.html",
+        "dates": [
+            "03 декабря (чт) 19:00"
+        ],
+        "status": "Ближайшие спектакли: 03 декабря (чт) 19:00"
+    },
+    {
+        "play": "Утиная охота",
+        "url": "https://www.dzerteatr.ru/spektakli/ohota.html",
+        "dates": [
+            "05 декабря (сб) 17:00"
+        ],
+        "status": "Ближайшие спектакли: 05 декабря (сб) 17:00"
+    },
+    {
+        "play": "Золотой петушок",
+        "url": "https://www.dzerteatr.ru/spektakli/petux.html",
+        "dates": [
+            "06 декабря (вс) 11:00"
+        ],
+        "status": "Ближайшие спектакли: 06 декабря (вс) 11:00"
+    },
+    {
+        "play": "Маленький принц",
+        "url": "https://www.dzerteatr.ru/spektakli/prince.html",
+        "dates": [
+            "06 декабря (вс) 17:00"
+        ],
+        "status": "Ближайшие спектакли: 06 декабря (вс) 17:00"
+    },
+    {
+        "play": "Братья Карамазовы",
+        "url": "https://www.dzerteatr.ru/spektakli/karamazovi.html",
+        "dates": [
+            "11 декабря (пт) 18:00"
+        ],
+        "status": "Ближайшие спектакли: 11 декабря (пт) 18:00"
+    },
+    {
+        "play": "Река Потудань",
+        "url": "https://www.dzerteatr.ru/spektakli/platonov.html",
+        "dates": [
+            "12 декабря (сб) 17:00"
+        ],
+        "status": "Ближайшие спектакли: 12 декабря (сб) 17:00"
+    },
+    {
+        "play": "Волшебная лампа Аладдина",
+        "url": "https://www.dzerteatr.ru/spektakli/aladdin.html",
+        "dates": [
+            "13 декабря (вс) 11:00"
+        ],
+        "status": "Ближайшие спектакли: 13 декабря (вс) 11:00"
+    },
+    {
+        "play": "Наследники дядюшки Жоржа",
+        "url": "https://www.dzerteatr.ru/spektakli/nasledniki.html",
+        "dates": [
+            "19 декабря (сб) 17:00"
+        ],
+        "status": "Ближайшие спектакли: 19 декабря (сб) 17:00"
+    },
+    {
+        "play": "Тётки",
+        "url": "https://www.dzerteatr.ru/spektakli/tetki.html",
+        "dates": [
+            "20 декабря (вс) 17:00"
+        ],
+        "status": "Ближайшие спектакли: 20 декабря (вс) 17:00"
+    },
+    {
+        "play": "Ночь перед Рождеством",
+        "url": "https://www.dzerteatr.ru/spektakli/gogol.html",
+        "dates": [
+            "25 декабря (пт) 18:00"
+        ],
+        "status": "Ближайшие спектакли: 25 декабря (пт) 18:00"
+    }
+]
