@@ -33,3 +33,4 @@ jobs:
           git add afisha.json
           git diff --staged --quiet || git commit -m "Update afisha data"
           git push
+# update schedule
